@@ -162,7 +162,7 @@ Run Windows software/games easily.
 - **Resources**  
 Shows CPU, RAM, disk, network usage and running processes/apps in a clean, modern interface. It uses GNOME's libadwaita design so it feels right at home on Fedora Workstation. Much nicer than the default GNOME System Monitor for quick checks.
 
-- **Packet**
+- **Packet**  
 Send and receive files wirelessly with Android devices (using Quick Share) or with another device that has Packet installed. It needs Bluetooth enabled and both devices on the same Wi-Fi network with mDNS support. Super simple for sharing photos, PDFs or videos without USB or email.
 
 - **PeaZip**
